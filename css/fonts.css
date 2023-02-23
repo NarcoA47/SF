@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Festive;
+    src: url(../fonts/Festive-Regular.ttf);
+}
+
+@font-face {
+    font-family: Dancing;
+    src: url(../fonts/DancingScript-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Irish;
+    src: url(../fonts/IrishGrover-Regular.ttf);
+}
+
+@font-face {
+    font-family: Lobster;
+    src: url(../fonts/Lobster-Regular.ttf);
+}
+
+@font-face {
+    font-family: ZenOldMichino;
+    src: url(../fonts/ZenOldMincho-Regular.ttf);
+}
