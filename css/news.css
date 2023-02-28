@@ -1,0 +1,11 @@
+.ribbon ul  {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.ribbon ul li{
+    margin: 0rem 1rem;
+}
+.ribbon ul li:hover{
+    border-bottom: 1px solid black;
+}
